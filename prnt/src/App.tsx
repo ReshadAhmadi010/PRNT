@@ -38,7 +38,7 @@ function HomePage() {
 function Layout() {
   return (
     <div>
-      <div className=" px-[70px]  bg-[#f2f2f2]">
+      <div className="w-full px-[70px]  bg-[#f2f2f2]">
         <Nav />
       </div>
       <Outlet />

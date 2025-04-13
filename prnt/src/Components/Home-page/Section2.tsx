@@ -1,9 +1,9 @@
 import React from 'react';
-import image1 from '../../public/images/Section2/image1.svg';
-import image2 from '../../public/images/Section2/image2.svg';
-import image3 from '../../public/images/Section2/image3.svg';
-import image4 from '../../public/images/Section2/image4.svg';
-import image5 from '../../public/images/Section2/image5.svg';
+import image1 from '../../images/Section2/image1.svg'
+import image2 from '../../images/Section2/image2.svg'
+import image3 from '../../images/Section2/image3.svg'
+import image4 from '../../images/Section2/image4.svg'
+import image5 from '../../images/Section2/image5.svg'
 
 export default function Section2() {
   return (

@@ -46,7 +46,7 @@ export default function Section1() {
         </div>
 
         <div className="pt-[30px] sm:pt-[40px] w-full">
-          <div className="h-[200px] sm:h-[250px] lg:h-[300px] overflow-y-auto scrollable-div scrollbar-hide relative shadow-bottom px-2">
+          <div className="h-[200px] w-[213px] sm:h-[250px] lg:h-[300px] overflow-y-auto scrollable-div scrollbar-hide relative shadow-bottom px-2">
             <div className="border-t py-[10px] sm:py-[15px] lg:py-[20px]">
               <span className="text-[12px] sm:text-[14px] md:text-[16px] lg:text-[18px]">
                 Printing Consultation
